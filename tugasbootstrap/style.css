@@ -1,0 +1,11 @@
+footer .main-content{
+    height: 80px;
+    background-color: black;
+    
+
+  }
+
+  footer .main-content p{
+    color: #ddd;
+    text-align: center;
+  }
